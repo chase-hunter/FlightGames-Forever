@@ -4,7 +4,7 @@
 
 Flight Games is a World of Warcraft add-on for the WoW Forever client. When you take a flight path, a window opens in the classic WoW dialog style with a game selector. Pick a game and play until you land. The window closes when you land, and every game is saved for your next flight.
 
-![Flight Games in game}(https://github.com/chase-hunter/FlightGames-Forever/blob/main/Photos/flightgames.gif?raw=true)
+![Flight Games in game](https://github.com/chase-hunter/FlightGames-Forever/blob/main/Photos/flightgames.gif?raw=true)
 
 ## Features
 
